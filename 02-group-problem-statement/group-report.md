@@ -166,6 +166,8 @@ Sử dụng model lớn để tăng độ chính xác.
 
 ### 5.1. Current workflow bản nhóm
 
+![Workflow trước và sau của hệ thống LMS](./02-group-problem-statement-workflow.png)
+
 ```text
 [1 Học/họp: 60-120' - sinh viên / nhân viên nghe giảng/meeting]
 → [2 Ghi chú thủ công: 20-40' - tự ghi, dễ sót ý, không kịp tốc độ]
@@ -245,6 +247,8 @@ Nếu LLM hallucinate → người review phát hiện và flag để retrain pr
 ---
 
 ## Phase 6 — Rule / Workflow / Agent + Decision
+
+![So sánh Rule, Workflow và Agent cho hệ thống LMS](./02-group-problem-statement-rule-workflow-agent.png)
 
 ### 6.0. Ma trận độ phù hợp (suy nghĩ nhanh, không thay quyết định cuối)
 
