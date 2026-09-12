@@ -125,8 +125,6 @@ FUTURE STATE — khoảng 15 phút sau lớp
 Fallback: nếu AI không dẫn được về tài liệu hoặc mâu thuẫn với slide thì bỏ câu trả lời và hỏi giảng viên/trợ giảng.
 ```
 
-File đính kèm (nếu vẽ riêng): `01-individual-problem-scan-workflow-card-1.png`
-
 ---
 
 #### Problem Card #2 — Người đọc khó kiểm chứng tin trên mạng
@@ -186,8 +184,6 @@ FUTURE STATE — khoảng 9 phút
 Fallback: nếu AI không tìm được nguồn gốc hoặc các nguồn mâu thuẫn, hệ thống chỉ báo “chưa đủ bằng chứng”; người đọc dùng fact-check hoặc tìm kiếm thủ công.
 ```
 
-File đính kèm: `01-individual-problem-scan-workflow-card-2.png`
-
 ---
 
 #### Problem Card #3 — Bỏ sót quyết định và việc cần làm sau cuộc họp
@@ -245,8 +241,6 @@ FUTURE STATE — khoảng 7 phút sau họp
 
 Fallback: nếu âm thanh kém, nhận diện sai người nói hoặc chưa được đồng ý ghi âm, dùng notes thủ công và chốt action item trực tiếp với từng người.
 ```
-
-File đính kèm: `01-individual-problem-scan-workflow-card-3.png`
 
 ---
 

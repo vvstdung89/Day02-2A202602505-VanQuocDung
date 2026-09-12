@@ -140,8 +140,6 @@ ngữ cảnh bài giảng cụ thể — người dùng cần điểm chính + a
 transcript đầy đủ.
 ```
 
-Bằng chứng đính kèm (nếu có): `02-group-problem-statement-survey.png`, `02-group-problem-statement-interview-notes.md`
-
 ### 4.2. Research giải pháp đã có (ít nhất 2-3 tools/patterns + 1-2 link kiểm được)
 
 
@@ -167,8 +165,6 @@ Sử dụng model lớn để tăng độ chính xác.
 ## Phase 5 — Workflow + Problem Statement
 
 ### 5.1. Current workflow bản nhóm
-
-Dán workflow hoặc link file: `02-group-problem-statement-workflow.png/pdf/md`
 
 ```text
 [1 Học/họp: 60-120' - sinh viên / nhân viên nghe giảng/meeting]
