@@ -4,10 +4,14 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...):
-- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
+- Họ và tên: Văn Quốc Dũng 
+- Mã học viên: 2A202602505
+- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): software engineer nhiều năm kinh nghiệm
+- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem): 
+  - shopping
+  -  đi học
+  -  đi họp
+  -  di chuyển công cộng
 
 ---
 
@@ -16,18 +20,18 @@
 **Cách điền:** mỗi dòng = việc gì + ai chịu + đo bằng gì. Cột `Dấu hiệu thật` bắt buộc có số: mất bao lâu (bấm giờ mấy lần), mấy lần/tuần, bao nhiêu người gặp, log/ticket/quote nào.
 
 
-| #   | Lăng kính (Lặp lại / Tốn thời gian / AI có thể tốt hơn / Pain từ người khác) | Problem quan sát được                                                      | Ai chịu ảnh hưởng?                                                          | Dấu hiệu thật (số + bằng chứng)                                                                                                                                                        |
-| --- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Tốn thời gian                                                                | Quá nhiều sản phẩm cùng loại khi mua sắm online                            | Người mua hàng online, đặc biệt người chưa biết rõ sản phẩm phù hợp         | Người mua phải mở 6 trang sản phẩm và chuyển qua lại hơn 10 lần; có thể kiểm tra bằng lịch sử trình duyệt hoặc quay màn hình trong một phiên mua hàng 25 phút.                       |
-| 2   | Pain từ người khác                                                           | Mua sản phẩm online về thì không đúng như miêu tả                          | Người mua hàng online; bộ phận chăm sóc khách hàng của người bán            | Trong 10 đánh giá gần nhất có 3 ảnh hàng nhận được khác ảnh quảng cáo; bằng chứng là ảnh review và chuỗi 8 tin nhắn yêu cầu đổi trả của khách.                                       |
-| 3   | Pain từ người khác / AI có thể tốt hơn                                       | SInh viên khó tiếp thu các vấn đề khó trên lớp trong thời gian ngắn        | Sinh viên; giảng viên hoặc trợ giảng phải giải thích lại                    | Sau buổi học 60 phút, 4/10 sinh viên hỏi lại cùng một khái niệm và 3 bạn chưa làm được bài áp dụng; kiểm tra qua chat lớp và kết quả bài tập cuối buổi.                              |
-| 4   | Tốn thời gian                                                                | Di chuyển trong thành phố , và không biết nên đi đường nào để tránh kẹt xe | Người đi làm, sinh viên và tài xế di chuyển trong giờ cao điểm              | Thời gian dự kiến trên bản đồ tăng từ 25 lên 42 phút, người lái đổi tuyến 2 lần nhưng vẫn muộn 15 phút; bằng chứng là ảnh chụp bản đồ và lịch sử chuyến đi.                           |
-| 5   | Pain từ người khác                                                           | HIện tại, nhiều fake news, người đọc không biết thật hay sai.              | Người đọc tin và người dùng mạng xã hội                                     | Một bài có hơn 1.000 lượt chia sẻ nhưng không ghi nguồn hoặc ngày đăng; tìm cùng nội dung thấy 3 trang đưa chi tiết khác nhau, có thể lưu link hoặc ảnh chụp để đối chiếu.             |
-| 6   | Pain từ người khác                                                           | Các shopper có thể mất order do loss chat message                          | Chủ shop online, nhân viên trực chat và khách đang chờ phản hồi             | Hộp thư có 7 cuộc trò chuyện chưa đọc quá 2 giờ; 2 khách nhắn lại và 1 khách báo đã mua ở nơi khác—thể hiện trực tiếp trong lịch sử chat và trạng thái đơn hàng.                     |
-| 7   | AI có thể tốt hơn                                                            | Khi họp, có thể bi bỏ qua các ý quan trọng hoặc các ý đã đồng ý.           | Người tham gia họp, người ghi biên bản và người thực hiện công việc sau họp | Sau cuộc họp 45 phút, 3 thành viên ghi deadline khác nhau; biên bản có 4 action item nhưng 2 việc chưa có người phụ trách, kiểm tra được từ notes và tin nhắn hỏi lại sau họp.         |
-| 8   | Pain từ người khác                                                           | Khi làm product, requirement đôi lúc không rõ ràng.                        | Product Manager, designer, developer và QA                                  | Một task có 5 câu hỏi làm rõ, requirement bị sửa 3 lần và development bị chặn gần 1 ngày; bằng chứng nằm trong comment và lịch sử chỉnh sửa của ticket.                              |
-| 9   |                                                                              |                                                                            |                                                                             |                                                                                                                                                                                        |
-| 10  |                                                                              |                                                                            |                                                                             |                                                                                                                                                                                        |
+| #   | Lăng kính (Lặp lại / Tốn thời gian / AI có thể tốt hơn / Pain từ người khác) | Problem quan sát được                                                      | Ai chịu ảnh hưởng?                                                          | Dấu hiệu thật (số + bằng chứng)                                                                                                                                                |
+| --- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Tốn thời gian                                                                | Quá nhiều sản phẩm cùng loại khi mua sắm online                            | Người mua hàng online, đặc biệt người chưa biết rõ sản phẩm phù hợp         | Người mua phải mở 6 trang sản phẩm và chuyển qua lại hơn 10 lần; có thể kiểm tra bằng lịch sử trình duyệt hoặc quay màn hình trong một phiên mua hàng 25 phút.                 |
+| 2   | Pain từ người khác                                                           | Mua sản phẩm online về thì không đúng như miêu tả                          | Người mua hàng online; bộ phận chăm sóc khách hàng của người bán            | Trong 10 đánh giá gần nhất có 3 ảnh hàng nhận được khác ảnh quảng cáo; bằng chứng là ảnh review và chuỗi 8 tin nhắn yêu cầu đổi trả của khách.                                 |
+| 3   | Pain từ người khác / AI có thể tốt hơn                                       | SInh viên khó tiếp thu các vấn đề khó trên lớp trong thời gian ngắn        | Sinh viên; giảng viên hoặc trợ giảng phải giải thích lại                    | Sau buổi học 60 phút, 4/10 sinh viên hỏi lại cùng một khái niệm và 3 bạn chưa làm được bài áp dụng; kiểm tra qua chat lớp và kết quả bài tập cuối buổi.                        |
+| 4   | Tốn thời gian                                                                | Di chuyển trong thành phố , và không biết nên đi đường nào để tránh kẹt xe | Người đi làm, sinh viên và tài xế di chuyển trong giờ cao điểm              | Thời gian dự kiến trên bản đồ tăng từ 25 lên 42 phút, người lái đổi tuyến 2 lần nhưng vẫn muộn 15 phút; bằng chứng là ảnh chụp bản đồ và lịch sử chuyến đi.                    |
+| 5   | Pain từ người khác                                                           | HIện tại, nhiều fake news, người đọc không biết thật hay sai.              | Người đọc tin và người dùng mạng xã hội                                     | Một bài có hơn 1.000 lượt chia sẻ nhưng không ghi nguồn hoặc ngày đăng; tìm cùng nội dung thấy 3 trang đưa chi tiết khác nhau, có thể lưu link hoặc ảnh chụp để đối chiếu.     |
+| 6   | Pain từ người khác                                                           | Các shopper có thể mất order do loss chat message                          | Chủ shop online, nhân viên trực chat và khách đang chờ phản hồi             | Hộp thư có 7 cuộc trò chuyện chưa đọc quá 2 giờ; 2 khách nhắn lại và 1 khách báo đã mua ở nơi khác—thể hiện trực tiếp trong lịch sử chat và trạng thái đơn hàng.               |
+| 7   | AI có thể tốt hơn                                                            | Khi họp, có thể bi bỏ qua các ý quan trọng hoặc các ý đã đồng ý.           | Người tham gia họp, người ghi biên bản và người thực hiện công việc sau họp | Sau cuộc họp 45 phút, 3 thành viên ghi deadline khác nhau; biên bản có 4 action item nhưng 2 việc chưa có người phụ trách, kiểm tra được từ notes và tin nhắn hỏi lại sau họp. |
+| 8   | Pain từ người khác                                                           | Khi làm product, requirement đôi lúc không rõ ràng.                        | Product Manager, designer, developer và QA                                  | Một task có 5 câu hỏi làm rõ, requirement bị sửa 3 lần và development bị chặn gần 1 ngày; bằng chứng nằm trong comment và lịch sử chỉnh sửa của ticket.                        |
+| 9   |                                                                              |                                                                            |                                                                             |                                                                                                                                                                                |
+| 10  |                                                                              |                                                                            |                                                                             |                                                                                                                                                                                |
 
 
 > Gợi ý tự soi: tuần trước mất nhiều thời gian nhất vào việc gì? Việc gì hay trì hoãn? Người khác hay hỏi lại câu gì? Workflow nào ai cũng biết là chậm?
@@ -36,7 +40,7 @@
 
 - Prompt đã hỏi: as shoper/student/driver, what problem can I have
 - Ý dùng được: chọn lọc từ response và đã ghi ở trên
-- Ý bỏ vì không phải pain thật: liên hệ với bản thân, và bỏ ra (sinh viên miss deadline nhiều, đọc quá nhiều, đi xe hay ngập nước mưa,...)
+- Ý bỏ vì không phải pain thật: liên hệ với bản thân, và bỏ ra những ý không liên quan (sinh viên miss deadline nhiều, đọc quá nhiều, đi xe hay ngập nước mưa,...)
 
 **Self-check Phase 1:**
 
@@ -53,11 +57,11 @@
 Giữ bài nào: actor cụ thể, workflow vẽ được 3-7 bước, bottleneck ở 1 bước, impact đo được. Loại bài quá rộng.
 
 
-| Rank | Problem (copy từ bảng scan) | Vì sao chọn (2-3 ý) | Điều còn chưa chắc |
-| ---- | --------------------------- | ------------------- | ------------------ |
-| 1 | Sinh viên khó tiếp thu các vấn đề khó trên lớp trong thời gian ngắn | Actor và thời điểm xảy ra rõ; đo được bằng số câu hỏi lặp lại và kết quả bài tập; AI có thể giải thích theo nhiều cách và tạo bài luyện tập cá nhân hóa. | Nguyên nhân chính là tốc độ giảng, kiến thức nền hay cách trình bày; sinh viên có sẵn tài liệu đúng để AI tham chiếu hay không. |
-| 2 | Hiện tại có nhiều fake news, người đọc không biết thông tin thật hay sai | Có workflow kiểm tra nguồn rõ; đo được thời gian xác minh và số claim có nguồn; AI phù hợp để trích xuất và đối chiếu claim. | Nguồn gốc có thể không truy cập được; AI có thể bịa nguồn hoặc kết luận quá tự tin; người đọc có chịu kiểm tra lại hay không. |
-| 3 | Khi họp, có thể bỏ qua các ý quan trọng hoặc các ý đã thống nhất | Workflow hẹp và lặp lại sau mỗi cuộc họp; đầu ra gồm quyết định và action item; đo được thời gian tổng hợp và số việc phải hỏi lại. | Chất lượng âm thanh, nhận diện người nói, quyền riêng tư khi ghi âm và mức chính xác cần đạt trước khi gửi biên bản. |
+| Rank | Problem (copy từ bảng scan)                                              | Vì sao chọn (2-3 ý)                                                                                                                                      | Điều còn chưa chắc                                                                                                            |
+| ---- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Sinh viên khó tiếp thu các vấn đề khó trên lớp trong thời gian ngắn      | Actor và thời điểm xảy ra rõ; đo được bằng số câu hỏi lặp lại và kết quả bài tập; AI có thể giải thích theo nhiều cách và tạo bài luyện tập cá nhân hóa. | Nguyên nhân chính? tốc độ giảng, kiến thức nền hay cách trình bày; sinh viên có sẵn tài liệu đúng để AI tham chiếu hay không. |
+| 2    | Hiện tại có nhiều fake news, người đọc không biết thông tin thật hay sai | Có workflow kiểm tra nguồn rõ; đo được thời gian xác minh và số claim có nguồn; AI phù hợp để trích xuất và đối chiếu claim.                             | Nguồn gốc có thể không truy cập được; AI có thể bịa nguồn hoặc kết luận quá tự tin; người đọc có chịu kiểm tra lại hay không. |
+| 3    | Khi họp, có thể bỏ qua các ý quan trọng hoặc các ý đã thống nhất         | Workflow hẹp và lặp lại sau mỗi cuộc họp; đầu ra gồm quyết định và action item; đo được thời gian tổng hợp và số việc phải hỏi lại.                      | Chất lượng âm thanh, nhận diện người nói, quyền riêng tư khi ghi âm và mức chính xác cần đạt trước khi gửi biên bản.          |
 
 
 ### 2.2. Problem Cards chi tiết (lặp lại cho cả 3 cards)
@@ -251,29 +255,28 @@ File đính kèm: `01-individual-problem-scan-workflow-card-3.png`
 **Card tôi muốn pitch nhất:**
 
 ```text
-Problem Card #3 — Bỏ sót quyết định và việc cần làm sau cuộc họp
+Problem Card #1 — Sinh viên chưa kịp hiểu bài khó trên lớp
 ```
 
 **Vì sao (2-3 câu: workflow gì, số đo gì, impact gì):**
 
 ```text
-Workflow hiện tại buộc một người vừa họp vừa ghi chép, rồi mất thêm khoảng 20 phút để tổng hợp và hỏi lại; vẫn có trường hợp 2/4 action item chưa rõ người phụ trách. AI có thể tạo transcript và bản nháp biên bản, còn người chủ trì duyệt owner và deadline trước khi gửi. Mục tiêu là giảm thời gian sau họp xuống dưới 7 phút và bảo đảm 100% action item có owner cùng deadline.
+Sau một buổi học, sinh viên có thể mất thêm 30–45 phút để tìm slide, thông báo hoặc video trên LMS, xem lại nội dung dài và so sánh nhiều cách giải thích; trong quan sát nhanh, 4/10 sinh viên hỏi lại và 3/10 chưa làm được bài áp dụng. Workflow đề xuất nhận multimedia từ LMS, dùng AI để trích xuất thông tin hữu ích, tóm tắt kiến thức và tạo quiz, sau đó sinh viên kiểm tra references với tài liệu gốc. Mục tiêu là giảm thời gian ôn lại xuống dưới 15 phút, đạt ít nhất 80% câu quiz đúng và bảo đảm 100% câu trả lời có references từ LMS.
 ```
 
 **Câu hỏi tôi muốn nhóm challenge (1-2 câu hỏi đúng chỗ yếu):**
 
 ```text
-Nếu AI nhận diện sai người nói hoặc hiểu nhầm một quyết định, human-review cần thiết kế thế nào để vẫn tiết kiệm thời gian? Nhóm có chấp nhận ghi âm cuộc họp không, và dữ liệu nào tuyệt đối không được gửi cho AI?
+Nếu video, slide hoặc thông báo trên LMS thiếu ngữ cảnh, AI phải hiển thị references và mức độ không chắc chắn như thế nào để sinh viên không tin nhầm bản tóm tắt? Human-review nên đặt ở bước nào để vẫn giữ mục tiêu ôn lại dưới 15 phút nhưng không biến thành việc xem lại toàn bộ tài liệu?
 ```
 
 **AI phản biện Card (nếu có):**
 
-- Điểm yếu AI chỉ ra: Bài toán đã có nhiều công cụ trên thị trường; transcript có thể sai tên người, deadline hoặc câu phủ định; ghi âm còn liên quan đến quyền riêng tư.
-- Tôi sửa gì: Thu hẹp vào cuộc họp nhóm product bằng tiếng Việt; chỉ tạo bản nháp từ recording đã được đồng ý; bắt buộc người chủ trì xác nhận từng decision, owner và deadline trước khi gửi.
+- Điểm yếu AI chỉ ra: Mẫu quan sát 10 sinh viên còn nhỏ; chưa chắc nguyên nhân chính là nội dung dài, cách giảng hay kiến thức nền. AI cũng có thể trích xuất thiếu ý, tóm tắt sai hoặc tạo quiz không bám sát tài liệu khi video không có transcript rõ ràng.
+- Tôi sửa gì: Thu hẹp bài toán vào việc ôn lại multimedia và thông báo đã có trên LMS; AI chỉ hỗ trợ trích xuất, tóm tắt và tạo quiz, luôn gắn references về nguồn gốc. Sinh viên phải kiểm tra references trước khi sử dụng kết quả; nhóm sẽ pilot với 10 sinh viên trong 2 tuần và đo thời gian ôn lại, kết quả quiz cùng tỷ lệ đầu ra có nguồn.
 
 ### Self-check nộp phần 01
 
 - [x] Có 5+ problems + top 3 Cards đủ field
 - [x] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
 - [x] Đã chọn 1 card pitch + câu hỏi challenge
-
